@@ -22,3 +22,10 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
+
+# Visual C++ Generated Files
+*.pdb
+*.obj
+*.pidb
+*.idb
+**/Debug/*
