@@ -76,5 +76,7 @@ int main()
 
 	// Clean up
 	delete(sequence);
+	std::cin >> maximum;
+
 	return 0;
 }
