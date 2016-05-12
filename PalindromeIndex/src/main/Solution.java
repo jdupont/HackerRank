@@ -8,15 +8,6 @@ public class Solution
 	{
 		try (Scanner keyboard = new Scanner(System.in))
 		{
-			String test = "hgygsvlfwcwnswtuhmyaljkqlqjjqlqkjlaymhutwsnwcflvsgygh";
-			for (int i = 0; i < test.length(); ++i)
-			{
-				if (i != 44)
-				{
-					System.out.print(test.charAt(i));
-				}
-			}
-
 			int numCases = keyboard.nextInt();
 
 			for (int i = 0; i < numCases; ++i)
@@ -29,13 +20,32 @@ public class Solution
 				{
 					if (current.charAt(j) != current.charAt(current.length() - j - 1))
 					{
-						if (current.charAt(j) == current.charAt(current.length() - j - 2))
+						if (j - 1 >= 0 && j + 1 < current.length() && current.length() - j - 2 >= 0)
 						{
-							System.out.println(current.length() - j - 1);
+							System.out.println("Choice between: " + j + "(" + current.charAt(j) + ") and "
+									+ (current.length() - j - 1) + "(" + current.charAt((current.length() - j - 1))
+									+ ")");
+
+							if (current.charAt(j - 1) == current.charAt(current.length() - j - 1)
+									&& current.charAt(j + 1) == current.charAt(current.length() - j - 2))
+							{
+								System.out.println(current.length() - j - 1);
+							}
+							else
+							{
+								System.out.println(j);
+							}
 						}
 						else
 						{
-							System.out.println(j);
+							if (current.charAt(j) == current.charAt(current.length() - j - 2))
+							{
+								System.out.println(current.length() - j - 1);
+							}
+							else
+							{
+								System.out.println(j);
+							}
 						}
 
 						neededChange = true;
