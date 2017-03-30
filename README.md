@@ -12,17 +12,17 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 |---|---|---|
 |Algorithms - Warmup|10 / 10|3/29/2017|
 |Algorithms - Implementation|54 / 62|3/29/2017|
-|Algorithms - Constructive Algorithms|||
-|Algorithms - Strings|||
-|Algorithms - Sorting|||
-|Algorithms - Search|||
-|Algorithms - Graph Theory|||
-|Algorithms - Greedy|||
-|Algorithms - Dynamic Programming|||
-|Algorithms - Bit Manipulation|||
-|Algorithms - Recursion|||
-|Algorithms - Game Theory|||
-|Algorithms - NP Complete|||
+|Algorithms - Constructive Algorithms|21 / 45|3/29/2017|
+|Algorithms - Strings|15 / 18|3/29/2017|
+|Algorithms - Sorting|4 / 24|3/29/2017|
+|Algorithms - Search|1 / 69|3/29/2017|
+|Algorithms - Graph Theory|5 / 22|3/29/2017|
+|Algorithms - Greedy|1 / 105|3/29/2017|
+|Algorithms - Dynamic Programming|2 / 11|3/29/2017|
+|Algorithms - Bit Manipulation|11 / 25|3/29/2017|
+|Algorithms - Recursion|0 / 11|3/29/2017|
+|Algorithms - Game Theory|1 / 32|3/29/2017|
+|Algorithms - NP Complete|0 / 4|3/29/2017|
 
 ## List of Problems with Solutions
 
