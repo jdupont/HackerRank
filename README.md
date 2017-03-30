@@ -10,23 +10,24 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 
 |Domain|Status|Last Updated|
 |---|---|---|
-|[Algorithms - Warmup]|10 / 10|3/29/2017|
-|[Algorithms - Implementation]|54 / 62|3/29/2017|
-|*Algorithms - Constructive Algorithms*|||
-|*Algorithms - Strings*|||
-|*Algorithms - Sorting*|||
-|*Algorithms - Search*|||
-|*Algorithms - Graph Theory*|||
-|*Algorithms - Greedy*|||
-|*Algorithms - Dynamic Programming*|||
-|*Algorithms - Bit Manipulation*|||
-|*Algorithms - Recursion*|||
-|*Algorithms - Game Theory*|||
-|*Algorithms - NP Complete*|||
+|Algorithms - Warmup|10 / 10|3/29/2017|
+|Algorithms - Implementation|54 / 62|3/29/2017|
+|Algorithms - Constructive Algorithms|||
+|Algorithms - Strings|||
+|Algorithms - Sorting|||
+|Algorithms - Search|||
+|Algorithms - Graph Theory|||
+|Algorithms - Greedy|||
+|Algorithms - Dynamic Programming|||
+|Algorithms - Bit Manipulation|||
+|Algorithms - Recursion|||
+|Algorithms - Game Theory|||
+|Algorithms - NP Complete|||
 
 ## List of Problems with Solutions
 
-Algorithms
+### Algorithms
+
 	Warmup (10/10)
 		1. Solve Me First
 		2. Simple Array Sum
