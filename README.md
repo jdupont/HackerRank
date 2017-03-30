@@ -10,7 +10,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 
 |Domain|Status|Last Updated|
 |---|---|---|
-|![Done](https://myfitnesspal.desk.com/customer/portal/attachments/509904 "Done") ~~Algorithms - Warmup~~|10 / 10|3/29/2017|
+|![Done](http://www.iconsdb.com/icons/preview/green/check-mark-8-xxl.png "Done") ~~Algorithms - Warmup~~|10 / 10|3/29/2017|
 |Algorithms - Implementation|54 / 62|3/29/2017|
 |Algorithms - Constructive Algorithms|21 / 45|3/29/2017|
 |Algorithms - Strings|15 / 18|3/29/2017|
