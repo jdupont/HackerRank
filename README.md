@@ -28,7 +28,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 
 ### Algorithms
 
-	Warmup (10/10)
+	#### Warmup (10/10)
 		1. Solve Me First
 		2. Simple Array Sum
 		3. Compare the Triplets
@@ -39,7 +39,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 		8. Mini-Max Sum
 		9. Time Conversion
 		10. Birthday Cake Candles
-	Implementation (54/62)
+	#### Implementation (54/62)
 		1. Grading Students
 		2. Apple and Orange
 		3. Kangaroo
@@ -94,7 +94,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 		52. Strange Counter
 		53. Larry's Array
 		54. Matrix Layer Rotation
-	Strings (21/45)
+	#### Strings (21/45)
 		1. Super Reduced String
 		2. CamelCase
 		3. Two Characters
@@ -116,7 +116,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 		19. Sherlock and Valid String
 		20. Common Child
 		21. Bear and Steady Gene
-	Sorting (15/18)
+	#### Sorting (15/18)
 		1. Intro to Tutorial Challenges
 		2. Insertion Sort - Part 1
 		3. Insertion Sort - Part 2
@@ -132,25 +132,25 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 		13. The Full Counting Sort
 		14. Closest Numbers
 		15. Find the Median
-	Search (4/24)
+	#### Search (4/24)
 		1. Hackerland Radio Transmitters
 		2. Missing Numbers
 		3. Pairs
 		4. Sherlock and Array
-	Graph Theory (1/69)
+	#### Graph Theory (1/69)
 		1. Breadth First Search: Shortest Reach
-	Greedy (5/22)
+	#### Greedy (5/22)
 		1. Minimum Absolute Difference in an Array
 		2. Marc's Cakewalk
 		3. Luck Balance
 		4. Maximum Perimeter Triangle
 		5. Sherlock and The Beast
-	Dynamic Programming (1/105)
+	#### Dynamic Programming (1/105)
 		1. Fibonacci Modified
-	Constructive Algorithms (2/11)
+	#### Constructive Algorithms (2/11)
 		1. Gaming Array
 		2. New Year Chaos
-	Bit Manipulation (11/25)
+	#### Bit Manipulation (11/25)
 		3. Lonely Integer
 		4. Maximizing XOR
 		5. Counter game
@@ -160,7 +160,7 @@ My HackerRank profile is at https://www.hackerrank.com/jdupont.
 		9. Sansa and XOR
 		10. Cipher
 		11. A or B
-	Recursion (0/11)
-	Game Theory (1/32)
+	#### Recursion (0/11)
+	#### Game Theory (1/32)
 		1. Alice and Bob's Silly Game
-	NP Complete (0/4)
+	#### NP Complete (0/4)
